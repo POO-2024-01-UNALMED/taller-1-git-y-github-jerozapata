@@ -1,3 +1,6 @@
 Jerónimo Zapata Quiroz 
 18
 Aspiro a comprender los pilares de la Programación Orientada a Objetos. Quiero dominar conceptos como clases, objetos, herencia, encapsulamiento y polimorfismo. Mi objetivo es crear código más eficiente, reutilizable y fácil de mantener.
+Ya puedo hacer un commit porque la carpeta no esta vacia 
+
+porque se generan conflictos
